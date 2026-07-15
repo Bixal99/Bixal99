@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Bilal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CV%20%26%20ML%20Practitioner&descAlignY=55&descSize=18" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=220&section=header&text=Mohammad%20Bilal&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CV%20%26%20ML&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems)
 
 <br/>
 
@@ -127,7 +127,7 @@ End-to-end telecom churn prediction application combining a trained XGBoost clas
 | Performance | Optimized feature pipeline for real-time prediction on dashboard input |
 | Security | Local data handling, no persistent storage of sensitive customer data |
 | Impact | Enables data-driven retention strategy through predictive + generative insights |
-| Repository | [GitHub](https://github.com/Bixal99) |
+| Repository | [GitHub](https://github.com/Bixal99/Churn-Prediction) |
 
 </details>
 
@@ -144,7 +144,7 @@ A hands-free, accessibility-focused Morse code typing system that translates web
 | Performance | Eye Aspect Ratio (EAR)-based blink detection tuned for responsiveness |
 | Security | Fully local processing, no video data transmitted or stored |
 | Impact | Assistive technology enabling hands-free communication |
-| Repository | [GitHub](https://github.com/Bixal99) |
+| Repository | [GitHub](https://github.com/Bixal99/EyeBlinkMorseDetector) |
 
 </details>
 
@@ -221,22 +221,12 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bixal99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bixal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bixal99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bixal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bixal99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bixal99&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Bixal99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9)
 
 </div>
 
@@ -246,7 +236,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bixal99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bixal99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
 
 </div>
 
@@ -256,7 +246,12 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Needs GitHub Action: copy snake.yml into Bixal99/Bixal99, then run "Generate Snake" once -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -295,6 +290,6 @@ open_to:
 
 *"Engineering intelligent systems, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=120&section=footer)
 
 </div>
