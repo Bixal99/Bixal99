@@ -246,11 +246,11 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<!-- Needs GitHub Action: copy snake.yml into Bixal99/Bixal99, then run "Generate Snake" once -->
+<!-- Generated locally (no GitHub Actions). Re-run locally to refresh. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bixal99/Bixal99/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
