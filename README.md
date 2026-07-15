@@ -1,26 +1,28 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=220&section=header&text=Mohammad%20Bilal&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CV%20%26%20ML&descAlignY=55&descSize=18)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D28D9&amp;height=200&amp;section=header&amp;text=Mohammad%20Bilal&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=16" alt="Header" width="100%" />
 
 <br/>
 
-![NUCES](https://img.shields.io/badge/FAST%20NUCES-BSCS%202022--2026-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Doha%2C%20Qatar-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bixal99s-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bilal-64489827b/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalnadeema302003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bixal99)
+<a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bixal99&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Bixal99?style=flat-square&color=8B5CF6&label=Followers)
-![Stars](https://img.shields.io/github/stars/Bixal99?style=flat-square&color=A78BFA&label=Stars)
+<img src="https://img.shields.io/badge/FAST%20NUCES-BSCS%202022--2026-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" alt="NUCES" />
+<img src="https://img.shields.io/badge/Location-Doha%2C%20Qatar-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Bixal99&color=6D28D9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Bixal99?style=flat-square&color=8B5CF6&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Bixal99?affinity=self&style=flat-square&color=A78BFA&label=Stars" alt="Stars" />
 
 </div>
 
@@ -149,19 +151,17 @@ A hands-free, accessibility-focused Morse code typing system that translates web
 </details>
 
 <details>
-<summary><b>🔹 Software Systems & AI Project Suite</b></summary>
+<summary><b>🔹 AI Book Assistant</b></summary>
 <br/>
 
-Unified collection of management systems, AI-powered games, and database applications engineered using OOP principles and modern software engineering practices.
+Transform books into interactive AI conversations. Upload PDFs and chat with your books using voice + RAG.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, C++, C, HTML, CSS, JavaScript, OOP, CRUD, Git |
-| Scale | Multiple independent modules unified under consistent architecture |
-| Performance | CRUD-optimized data operations across management modules |
-| Security | Structured input validation across system modules |
-| Impact | Demonstrates breadth across systems programming, AI, and web development |
-| Repository | [GitHub](https://github.com/Bixal99) |
+| Stack | Next.js, TypeScript, RAG, Voice |
+| Scale | Full-stack SaaS-style reading assistant |
+| Impact | Makes long documents searchable and conversational |
+| Repository | [GitHub](https://github.com/Bixal99/AIBookAssistant) |
 
 </details>
 
@@ -169,8 +169,8 @@ Unified collection of management systems, AI-powered games, and database applica
 
 ### 💼 Experience
 
-**AI Engineer**
-**Zennore** · Pakistan
+**AI Engineer**  
+**Zennore** · Pakistan  
 `Jun 2025 – Present`
 
 Working in a fast-paced startup environment building AI-driven solutions while adapting to evolving market trends and emerging technologies.
@@ -185,15 +185,11 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ### 🏆 Achievements
 
-<div align="center">
-
 | Recognition | Details |
 |---|---|
 | BSCS Candidate | FAST NUCES, Chiniot-Faisalabad Campus (2022 – 2026) |
 | AI Engineer | 1+ Year Professional Experience at Zennore |
 | Multi-Domain Project Portfolio | AI, Computer Vision, Full-Stack, and Systems Engineering |
-
-</div>
 
 ---
 
@@ -221,12 +217,12 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bixal99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bixal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bixal99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bixal99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bixal99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9)
+<img src="https://streak-stats.demolab.com?user=Bixal99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
@@ -236,7 +232,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bixal99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bixal99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -246,12 +242,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<!-- Generated locally (no GitHub Actions). Re-run locally to refresh. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
@@ -279,17 +270,19 @@ open_to:
 
 ### 📬 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalnadeema302003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-bilal-64489827b/)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bixal99)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bixal99s-projects.vercel.app/)
-
----
-
 <div align="center">
 
-*"Engineering intelligent systems, one commit at a time."*
+<a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A78BFA&height=120&section=footer)
+<br/><br/>
+
+<em>"Engineering intelligent systems, one commit at a time."</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D28D9&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
 
 </div>
