@@ -242,7 +242,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
