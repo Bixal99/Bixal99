@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D28D9&amp;height=200&amp;section=header&amp;text=Mohammad%20Bilal&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&amp;descAlignY=55&amp;descSize=16" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=Mohammad%20Bilal&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" alt="Header" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FAST%20NUCES-BSCS%202022--2026-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" alt="NUCES" />
-<img src="https://img.shields.io/badge/Location-Doha%2C%20Qatar-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-Qatar-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br/><br/>
 
@@ -28,29 +28,27 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-```yaml
-name: Mohammad Bilal
-role: AI Engineer @ Zennore | Software Engineer
-focus:
-  - Artificial Intelligence & Machine Learning
-  - Computer Vision & OCR Pipelines
-  - Full-Stack Product Engineering (Next.js / React / Node.js)
-  - Retrieval-Augmented Generation (RAG) & LLM Orchestration
-mindset: >
-  Engineering-first problem solver who bridges research-grade AI models
-  with production-ready, scalable software systems.
-open_to:
-  - AI/ML Engineering roles
-  - Full-Stack Engineering roles
-  - Computer Vision & Applied Research collaborations
-  - Freelance & Contract Software Projects
-```
+**Mohammad Bilal** â€” AI Engineer @ Zennore | Software Engineer
+
+Engineering-first problem solver who bridges research-grade AI models with production-ready, scalable software systems.
+
+**Focus**
+- Artificial Intelligence & Machine Learning
+- Computer Vision & OCR Pipelines
+- Full-Stack Product Engineering (Next.js / React / Node.js)
+- Retrieval-Augmented Generation (RAG) & LLM Orchestration
+
+**Open to**
+- AI/ML Engineering roles
+- Full-Stack Engineering roles
+- Computer Vision & Applied Research collaborations
+- Freelance & Contract Software Projects
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -102,76 +100,125 @@ open_to:
 
 ---
 
-### 🤖 AI / ML Expertise
+### AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, MediaPipe Face Mesh, real-time facial landmark tracking |
-| Machine Learning | ⭐⭐⭐⭐☆ | XGBoost, classification/regression pipelines, model evaluation |
-| Generative AI & LLMs | ⭐⭐⭐⭐☆ | Prompt Engineering, RAG, LangChain, LangGraph, Google Generative AI |
-| OCR & Document Intelligence | ⭐⭐⭐☆☆ | PyMuPDF-based extraction pipelines, web scraping integration |
-| Data Analytics | ⭐⭐⭐⭐☆ | Streamlit dashboards, Plotly visual analytics, Pandas/NumPy pipelines |
+| Computer Vision | â­â­â­â­â˜† | OpenCV, MediaPipe Face Mesh, real-time facial landmark tracking |
+| Machine Learning | â­â­â­â­â˜† | XGBoost, classification/regression pipelines, model evaluation |
+| Generative AI & LLMs | â­â­â­â­â˜† | Prompt Engineering, RAG, LangChain, LangGraph, Google Generative AI |
+| OCR & Document Intelligence | â­â­â­â˜†â˜† | PyMuPDF-based extraction pipelines, web scraping integration |
+| Data Analytics | â­â­â­â­â˜† | Streamlit dashboards, Plotly visual analytics, Pandas/NumPy pipelines |
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-<details>
-<summary><b>🔹 AI Customer Churn Prediction System</b></summary>
+<details open>
+<summary><b>Resume-Builder (ResuMate)</b></summary>
 <br/>
 
-End-to-end telecom churn prediction application combining a trained XGBoost classifier with Gemini AI-generated retention insights, delivered through an interactive Streamlit analytics dashboard.
+<a href="https://github.com/Bixal99/Resume-Builder">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Bixal99&repo=Resume-Builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Resume-Builder" />
+</a>
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, Streamlit, XGBoost, Plotly, Pandas, NumPy, Google Gemini AI |
-| Scale | End-to-end pipeline: ingestion → model inference → AI-generated insights |
-| Performance | Optimized feature pipeline for real-time prediction on dashboard input |
-| Security | Local data handling, no persistent storage of sensitive customer data |
-| Impact | Enables data-driven retention strategy through predictive + generative insights |
-| Repository | [GitHub](https://github.com/Bixal99/Churn-Prediction) |
+ResuMate is a full-stack, enterprise-grade resume building and career document platform. It bridges the gap between raw career history and applicant tracking systems (ATS) by pairing real-time neural document parsing, generative AI bullet enhancement, and a split-screen reactive design studio with pixel-perfect PDF rendering.
 
+**Language:** JavaScript Â· **Repo:** [Bixal99/Resume-Builder](https://github.com/Bixal99/Resume-Builder)
+
+<br clear="both"/>
 </details>
 
 <details>
-<summary><b>🔹 Eye Blink Morse Code Detector</b></summary>
+<summary><b>AI Customer Churn Prediction System</b></summary>
 <br/>
 
-A hands-free, accessibility-focused Morse code typing system that translates webcam-detected eye blinks into text using computer vision and facial landmark analysis.
+<a href="https://github.com/Bixal99/Churn-Prediction">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Bixal99&repo=Churn-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Churn-Prediction" />
+</a>
 
-| Aspect | Detail |
-|---|---|
-| Stack | Python, OpenCV, MediaPipe Face Mesh, NumPy |
-| Scale | Real-time single-user webcam inference loop |
-| Performance | Eye Aspect Ratio (EAR)-based blink detection tuned for responsiveness |
-| Security | Fully local processing, no video data transmitted or stored |
-| Impact | Assistive technology enabling hands-free communication |
-| Repository | [GitHub](https://github.com/Bixal99/EyeBlinkMorseDetector) |
+End-to-end telecom churn prediction system with a trained XGBoost model, preprocessing artifacts, and an interactive Streamlit dashboard. Includes probability risk gauge, health score, and optional Gemini AI retention suggestions. Run locally with `streamlit run app.py`.
 
+**Language:** Jupyter Notebook Â· **Repo:** [Bixal99/Churn-Prediction](https://github.com/Bixal99/Churn-Prediction)
+
+<br clear="both"/>
 </details>
 
 <details>
-<summary><b>🔹 AI Book Assistant</b></summary>
+<summary><b>Eye Blink Morse Code Detector</b></summary>
 <br/>
 
-Transform books into interactive AI conversations. Upload PDFs and chat with your books using voice + RAG.
+<a href="https://github.com/Bixal99/EyeBlinkMorseDetector">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Bixal99&repo=EyeBlinkMorseDetector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="EyeBlinkMorseDetector" />
+</a>
 
-| Aspect | Detail |
-|---|---|
-| Stack | Next.js, TypeScript, RAG, Voice |
-| Scale | Full-stack SaaS-style reading assistant |
-| Impact | Makes long documents searchable and conversational |
-| Repository | [GitHub](https://github.com/Bixal99/AIBookAssistant) |
+Hands-free communication system that converts intentional eye blinks into Morse code text using OpenCV, MediaPipe, and EAR-based blink detection.
 
+**Language:** Python Â· **Repo:** [Bixal99/EyeBlinkMorseDetector](https://github.com/Bixal99/EyeBlinkMorseDetector)
+
+<br clear="both"/>
+</details>
+
+<details>
+<summary><b>AI Book Assistant</b></summary>
+<br/>
+
+<a href="https://github.com/Bixal99/AIBookAssistant">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Bixal99&repo=AIBookAssistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="AIBookAssistant" />
+</a>
+
+Transform your books into interactive AI conversations. Upload PDFs, and chat with your books using voice.
+
+**Language:** TypeScript Â· **Live:** [ai-book-assistant-blush.vercel.app](https://ai-book-assistant-blush.vercel.app) Â· **Repo:** [Bixal99/AIBookAssistant](https://github.com/Bixal99/AIBookAssistant)
+
+<br clear="both"/>
+</details>
+
+<details>
+<summary><b>Pentagram Image Diffusion</b></summary>
+<br/>
+
+<a href="https://github.com/Bixal99/Pentagram-Image-Diffusion">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Bixal99&repo=Pentagram-Image-Diffusion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Pentagram-Image-Diffusion" />
+</a>
+
+Pentagram Image Diffusion is a text-to-image AI model that can generate high-quality images from natural language descriptions. It uses a diffusion process, where random noise is iteratively refined into a coherent image guided by the user's prompt.
+
+**Language:** TypeScript Â· **Repo:** [Bixal99/Pentagram-Image-Diffusion](https://github.com/Bixal99/Pentagram-Image-Diffusion)
+
+<br clear="both"/>
 </details>
 
 ---
 
-### 💼 Experience
+### More Projects
+
+<div align="center">
+
+| Project | Description | Links |
+|---|---|---|
+| [Interview-Help](https://github.com/Bixal99/Interview-Help) | Interview Help | [Demo](https://interview-help-eight.vercel.app) Â· TypeScript |
+| [School-Management-System](https://github.com/Bixal99/School-Management-System) | Modern SMS for admins, teachers, students, and parents | GitHub |
+| [HMS](https://github.com/Bixal99/HMS) | HMS project | TypeScript |
+| [Portfolio](https://github.com/Bixal99/Portfolio) | Personal portfolio site | [Live](https://portfolio-bixal99s-projects.vercel.app) Â· TypeScript |
+| [RetroVerse](https://github.com/Bixal99/RetroVerse) | A Gaming Hub for Retro Games | [Live](https://retroverse-opal.vercel.app) Â· TypeScript |
+| [Ghoomora](https://github.com/Bixal99/Ghoomora) | A northern travel application | [Live](https://ghoomora.vercel.app) Â· TypeScript |
+| [Scrapper](https://github.com/Bixal99/Scrapper) | Site Scrapper | [Live](https://helpscript.vercel.app) Â· Python |
+
+</div>
+
+**Learning / practice**
+
+- [ODOO](https://github.com/Bixal99/ODOO) â€” ODOO study guide for roadmap from zero to hero
+- [DailyLeet](https://github.com/Bixal99/DailyLeet) â€” Solving LeetCode daily
+
+---
+
+### Experience
 
 **AI Engineer**  
-**Zennore** · Pakistan  
-`Jun 2025 – Present`
+**Zennore** Â· Pakistan  
+`Jun 2025 â€“ Present`
 
 Working in a fast-paced startup environment building AI-driven solutions while adapting to evolving market trends and emerging technologies.
 
@@ -183,17 +230,17 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 | Recognition | Details |
 |---|---|
-| BSCS Candidate | FAST NUCES, Chiniot-Faisalabad Campus (2022 – 2026) |
+| BSCS Candidate | FAST NUCES, Chiniot-Faisalabad Campus (2022 â€“ 2026) |
 | AI Engineer | 1+ Year Professional Experience at Zennore |
 | Multi-Domain Project Portfolio | AI, Computer Vision, Full-Stack, and Systems Engineering |
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 **Coming Soon**
 
@@ -204,7 +251,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ---
 
-### 💻 Coding Profiles
+### Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Bixal99)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Bixal99)
@@ -213,7 +260,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -228,7 +275,7 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -238,37 +285,28 @@ Working in a fast-paced startup environment building AI-driven solutions while a
 
 ---
 
-### 🐍 Contribution Snake
+### Current Focus
 
-<div align="center">
+**Learning**
+- Advanced LangGraph multi-agent orchestration
+- Vector databases & RAG optimization (pgvector, Neon)
 
-<img src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+**Building**
+- AI infrastructure & LLM quality monitoring pipelines
+- Full-stack SaaS products (Next.js 15 / Node.js / PostgreSQL)
 
-</div>
+**Exploring**
+- CI/CD for AI systems
+- Applied Computer Vision for accessibility
 
----
-
-### 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced LangGraph multi-agent orchestration
-  - Vector databases & RAG optimization (pgvector, Neon)
-building:
-  - AI infrastructure & LLM quality monitoring pipelines
-  - Full-stack SaaS products (Next.js 15 / Node.js / PostgreSQL)
-exploring:
-  - CI/CD for AI systems
-  - Applied Computer Vision for accessibility
-open_to:
-  - AI/ML Engineering opportunities
-  - Full-Stack Engineering collaborations
-  - Freelance & Contract Projects
-```
+**Open to**
+- AI/ML Engineering opportunities
+- Full-Stack Engineering collaborations
+- Freelance & Contract Projects
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -283,6 +321,6 @@ open_to:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D28D9&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
