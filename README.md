@@ -212,7 +212,7 @@ Text-to-image diffusion: refine noise into coherent images guided by natural lan
 ## Experience
 
 ### AI Engineer -- Zennore
-`Jun 2025 - Present` · Pakistan
+`Jun 2025 - Present` | Pakistan
 
 Building AI-driven product features in a high-velocity startup: prompt engineering, cross-functional delivery, and production workflows from concept to ship.
 
