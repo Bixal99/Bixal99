@@ -1,350 +1,296 @@
+<!-- ============================================================
+  Mohammad Bilal | GitHub Profile README
+  Theme: Teal midnight | Live data only | No hardcoded metrics
+============================================================ -->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=Mohammad%20Bilal&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" alt="Header" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+Machine+Learning;Full+Stack+Software+Engineer;Building+Scalable+AI-Powered+Systems" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FAST%20NUCES-BSCS%202022--2026-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="NUCES" />
-<img src="https://img.shields.io/badge/Location-Qatar-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bixal99&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Bixal99?style=for-the-badge&color=8B5CF6&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Bixal99?affinity=self&style=for-the-badge&color=A78BFA&label=Stars" alt="Stars" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:134E4A,100:042F2E&height=240&section=header&text=Mohammad%20Bilal&fontSize=48&fontColor=CCFBF1&fontAlignY=36&desc=AI%20Engineer%20%40%20Zennore%20%7C%20Full-Stack%20%26%20Applied%20ML&descAlignY=56&descSize=15" width="100%" alt="Header" />
 </div>
 
----
+<br/>
 
-### About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+Zennore;Computer+Vision+%26+OCR+Pipelines;RAG+%7C+LangChain+%7C+LangGraph;Next.js+%7C+FastAPI+%7C+PostgreSQL;Building+production+AI+systems" alt="Typing" />
+</div>
 
-**Mohammad Bilal** - AI Engineer @ Zennore | Software Engineer
+<br/>
 
-Engineering-first problem solver who bridges research-grade AI models with production-ready, scalable software systems.
+<div align="center">
+  <a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-134E4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Email-042F2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" /></a>
+</div>
 
-**Focus**
-- Artificial Intelligence & Machine Learning
-- Computer Vision & OCR Pipelines
-- Full-Stack Product Engineering (Next.js / React / Node.js)
-- Retrieval-Augmented Generation (RAG) & LLM Orchestration
+<br/>
 
-**Open to**
-- AI/ML Engineering roles
-- Full-Stack Engineering roles
-- Computer Vision & Applied Research collaborations
-- Freelance & Contract Software Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/FAST%20NUCES-BSCS%202022--2026-0F766E?style=flat-square&logo=graduation-cap&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Based%20in-Qatar-14B8A6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-2DD4BF?style=flat-square&logo=openai&logoColor=042F2E" alt="Role" />
+</div>
 
----
+<br/>
 
-### Tech Stack
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bixal99&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Bixal99?style=for-the-badge&logo=github&color=14B8A6&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Bixal99?affinity=self&style=for-the-badge&logo=github&color=2DD4BF&label=Stars" alt="Stars" />
+</div>
 
-**Languages**
+<br/>
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=mysql)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
-**Frontend**
+## About
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+I build **AI products that ship** - from computer-vision loops and RAG assistants to full-stack SaaS. Currently an **AI Engineer at Zennore**, bridging model work with production Next.js / Node / Python systems.
 
-**Backend & Databases**
+| I work on | Tools I reach for |
+|---|---|
+| Generative AI, RAG, LLM orchestration | LangChain, LangGraph, OpenAI, Gemini |
+| Computer Vision & accessibility | OpenCV, MediaPipe, EAR pipelines |
+| Full-stack product engineering | Next.js, React, FastAPI, PostgreSQL |
+| Analytics & ML systems | XGBoost, Streamlit, Pandas, Plotly |
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%7C%20Full--Stack%20%7C%20Freelance-0F766E?style=for-the-badge" alt="Open to" />
+</p>
 
-**AI / ML / CV**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://skillicons.dev/icons?i=huggingface)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+## Live GitHub Pulse
 
-**Cloud, DevOps & Tooling**
+> All cards below are generated from live GitHub API data for `Bixal99` (not hardcoded).
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Linux](https://skillicons.dev/icons?i=linux)
+<div align="center">
+  <a href="https://github.com/Bixal99">
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=Bixal99&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0&ring_color=14B8A6&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Bixal99">
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bixal99&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</div>
 
----
+<br/>
 
-### AI / ML Expertise
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bixal99&theme=vue-dark&hide_border=true&background=0D1117&ring=14B8A6&fire=5EEAD4&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=5EEAD4&stroke=0F766E" alt="Contribution Streak" />
+</div>
 
-| Domain | Level | Details |
-|---|---|---|
-| Computer Vision | `████░` 4/5 | OpenCV, MediaPipe Face Mesh, real-time facial landmark tracking |
-| Machine Learning | `████░` 4/5 | XGBoost, classification/regression pipelines, model evaluation |
-| Generative AI & LLMs | `████░` 4/5 | Prompt Engineering, RAG, LangChain, LangGraph, Google Generative AI |
-| OCR & Document Intelligence | `███░░` 3/5 | PyMuPDF-based extraction pipelines, web scraping integration |
-| Data Analytics | `████░` 4/5 | Streamlit dashboards, Plotly visual analytics, Pandas/NumPy pipelines |
+<br/>
 
----
+<div align="center">
+  <b>Contribution heatmap</b><br/><br/>
+  <img src="https://ghchart.rshah.org/14B8A6/Bixal99" width="100%" alt="Contribution Heatmap" />
+</div>
 
-### Featured Projects
+<br/>
+
+<div align="center">
+  <b>Weekly contribution bars (52 weeks)</b><br/><br/>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Bixal99?format=svg&chart=bar&weeks=52&theme=github_dark&gap=1&color=14B8A6" width="100%" alt="Weekly Bars" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
+
+## Featured Work
 
 <details open>
-<summary><b>Resume-Builder (ResuMate)</b></summary>
+<summary><b>01 -- Resume-Builder (ResuMate)</b></summary>
 <br/>
-
 <a href="https://github.com/Bixal99/Resume-Builder">
-  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Resume-Builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Resume-Builder" />
+  <img align="right" width="360" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Resume-Builder&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Resume-Builder" />
 </a>
 
-ResuMate is a full-stack, enterprise-grade resume building and career document platform. It bridges the gap between raw career history and applicant tracking systems (ATS) by pairing real-time neural document parsing, generative AI bullet enhancement, and a split-screen reactive design studio with pixel-perfect PDF rendering.
+Full-stack resume platform with neural document parsing, generative AI bullet enhancement, and pixel-perfect PDF rendering for ATS-ready career docs.
 
-**Language:** JavaScript | **Repo:** [Bixal99/Resume-Builder](https://github.com/Bixal99/Resume-Builder)
+`JavaScript` | [Repository](https://github.com/Bixal99/Resume-Builder)
 
 <br clear="both"/>
 </details>
 
 <details>
-<summary><b>AI Customer Churn Prediction System</b></summary>
+<summary><b>02 -- Churn Prediction</b></summary>
 <br/>
-
 <a href="https://github.com/Bixal99/Churn-Prediction">
-  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Churn-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Churn-Prediction" />
+  <img align="right" width="360" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Churn-Prediction&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Churn-Prediction" />
 </a>
 
-End-to-end telecom churn prediction system with a trained XGBoost model, preprocessing artifacts, and an interactive Streamlit dashboard. Includes probability risk gauge, health score, and optional Gemini AI retention suggestions. Run locally with `streamlit run app.py`.
+End-to-end telecom churn system: trained XGBoost model, Streamlit dashboard, risk gauge, health score, and optional Gemini retention suggestions.
 
-**Language:** Jupyter Notebook | **Repo:** [Bixal99/Churn-Prediction](https://github.com/Bixal99/Churn-Prediction)
+`Jupyter Notebook` | [Repository](https://github.com/Bixal99/Churn-Prediction)
 
 <br clear="both"/>
 </details>
 
 <details>
-<summary><b>Eye Blink Morse Code Detector</b></summary>
+<summary><b>03 -- Eye Blink Morse Detector</b></summary>
 <br/>
-
 <a href="https://github.com/Bixal99/EyeBlinkMorseDetector">
-  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=EyeBlinkMorseDetector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="EyeBlinkMorseDetector" />
+  <img align="right" width="360" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=EyeBlinkMorseDetector&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="EyeBlinkMorseDetector" />
 </a>
 
-Hands-free communication system that converts intentional eye blinks into Morse code text using OpenCV, MediaPipe, and EAR-based blink detection.
+Hands-free communication: webcam eye blinks to Morse text via OpenCV, MediaPipe, and EAR-based blink detection.
 
-**Language:** Python | **Repo:** [Bixal99/EyeBlinkMorseDetector](https://github.com/Bixal99/EyeBlinkMorseDetector)
+`Python` | [Repository](https://github.com/Bixal99/EyeBlinkMorseDetector)
 
 <br clear="both"/>
 </details>
 
 <details>
-<summary><b>AI Book Assistant</b></summary>
+<summary><b>04 -- AI Book Assistant</b></summary>
 <br/>
-
 <a href="https://github.com/Bixal99/AIBookAssistant">
-  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=AIBookAssistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="AIBookAssistant" />
+  <img align="right" width="360" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=AIBookAssistant&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="AIBookAssistant" />
 </a>
 
-Transform your books into interactive AI conversations. Upload PDFs, and chat with your books using voice.
+Upload PDFs and chat with books using voice + RAG.
 
-**Language:** TypeScript | **Live:** [ai-book-assistant-blush.vercel.app](https://ai-book-assistant-blush.vercel.app) | **Repo:** [Bixal99/AIBookAssistant](https://github.com/Bixal99/AIBookAssistant)
+`TypeScript` | [Live](https://ai-book-assistant-blush.vercel.app) | [Repository](https://github.com/Bixal99/AIBookAssistant)
 
 <br clear="both"/>
 </details>
 
 <details>
-<summary><b>Pentagram Image Diffusion</b></summary>
+<summary><b>05 -- Pentagram Image Diffusion</b></summary>
 <br/>
-
 <a href="https://github.com/Bixal99/Pentagram-Image-Diffusion">
-  <img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Pentagram-Image-Diffusion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Pentagram-Image-Diffusion" />
+  <img align="right" width="360" src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Pentagram-Image-Diffusion&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Pentagram-Image-Diffusion" />
 </a>
 
-Pentagram Image Diffusion is a text-to-image AI model that can generate high-quality images from natural language descriptions. It uses a diffusion process, where random noise is iteratively refined into a coherent image guided by the user's prompt.
+Text-to-image diffusion: refine noise into coherent images guided by natural language prompts.
 
-**Language:** TypeScript | **Repo:** [Bixal99/Pentagram-Image-Diffusion](https://github.com/Bixal99/Pentagram-Image-Diffusion)
+`TypeScript` | [Repository](https://github.com/Bixal99/Pentagram-Image-Diffusion)
 
 <br clear="both"/>
 </details>
 
----
+### Also shipping
 
-### More Projects
+<p align="center">
+  <a href="https://github.com/Bixal99/Interview-Help"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Interview-Help&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Interview-Help" height="120" /></a>
+  <a href="https://github.com/Bixal99/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Portfolio&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Portfolio" height="120" /></a>
+  <a href="https://github.com/Bixal99/RetroVerse"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=RetroVerse&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="RetroVerse" height="120" /></a>
+  <a href="https://github.com/Bixal99/Ghoomora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Ghoomora&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Ghoomora" height="120" /></a>
+  <a href="https://github.com/Bixal99/Scrapper"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Scrapper&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="Scrapper" height="120" /></a>
+  <a href="https://github.com/Bixal99/School-Management-System"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=School-Management-System&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=2DD4BF&text_color=E2E8F0" alt="School-Management-System" height="120" /></a>
+</p>
 
-| Project | Description | Links |
-|---|---|---|
-| [Interview-Help](https://github.com/Bixal99/Interview-Help) | Interview Help | [Demo](https://interview-help-eight.vercel.app) / TypeScript |
-| [School-Management-System](https://github.com/Bixal99/School-Management-System) | Modern SMS for admins, teachers, students, and parents | GitHub |
-| [HMS](https://github.com/Bixal99/HMS) | HMS project | TypeScript |
-| [Portfolio](https://github.com/Bixal99/Portfolio) | Personal portfolio site | [Live](https://portfolio-bixal99s-projects.vercel.app) / TypeScript |
-| [RetroVerse](https://github.com/Bixal99/RetroVerse) | A Gaming Hub for Retro Games | [Live](https://retroverse-opal.vercel.app) / TypeScript |
-| [Ghoomora](https://github.com/Bixal99/Ghoomora) | A northern travel application | [Live](https://ghoomora.vercel.app) / TypeScript |
-| [Scrapper](https://github.com/Bixal99/Scrapper) | Site Scrapper | [Live](https://helpscript.vercel.app) / Python |
+**More:** [HMS](https://github.com/Bixal99/HMS) | [ODOO study guide](https://github.com/Bixal99/ODOO) | [DailyLeet](https://github.com/Bixal99/DailyLeet)
 
-**Learning / practice**
+**Demos:** [Interview Help](https://interview-help-eight.vercel.app) | [Portfolio](https://portfolio-bixal99s-projects.vercel.app) | [RetroVerse](https://retroverse-opal.vercel.app) | [Ghoomora](https://ghoomora.vercel.app) | [Scrapper](https://helpscript.vercel.app) | [AI Book](https://ai-book-assistant-blush.vercel.app)
 
-- [ODOO](https://github.com/Bixal99/ODOO) - ODOO study guide for roadmap from zero to hero
-- [DailyLeet](https://github.com/Bixal99/DailyLeet) - Solving LeetCode daily
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
----
+## Stack
 
-### Experience
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,mysql&theme=dark" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask,postgres,mongodb,supabase&theme=dark" alt="Web" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,huggingface,docker,git,github,vercel,linux,vscode,figma,postman&theme=dark" alt="AI and tooling" />
+</p>
 
-**AI Engineer**  
-**Zennore** - Pakistan  
-`Jun 2025 - Present`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
-Working in a fast-paced startup environment building AI-driven solutions while adapting to evolving market trends and emerging technologies.
+## Expertise Map
 
-- Collaborated cross-functionally to design and deliver AI-powered product features from concept to execution
-- Applied problem-solving and prompt engineering practices to production AI workflows
-- Contributed to product development lifecycle in a lean, high-velocity team environment
+| Domain | Level | Stack |
+|:---|:---|:---|
+| Computer Vision | `████░` 4/5 | OpenCV, MediaPipe Face Mesh, real-time landmarks |
+| Machine Learning | `████░` 4/5 | XGBoost, classification / regression pipelines |
+| Generative AI & LLMs | `████░` 4/5 | Prompting, RAG, LangChain, LangGraph, Gemini |
+| OCR & Documents | `███░░` 3/5 | PyMuPDF extraction, scraping pipelines |
+| Data Analytics | `████░` 4/5 | Streamlit, Plotly, Pandas, NumPy |
 
-`AI Engineering` `Prompt Engineering` `Product Development` `Startup Collaboration`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
----
+## Experience
 
-### Achievements
+### AI Engineer -- Zennore
+`Jun 2025 - Present` · Pakistan
 
-| Recognition | Details |
+Building AI-driven product features in a high-velocity startup: prompt engineering, cross-functional delivery, and production workflows from concept to ship.
+
+`AI Engineering` `Prompt Engineering` `Product Development` `Startup`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
+
+## Recognition
+
+| | |
 |---|---|
-| BSCS Candidate | FAST NUCES, Chiniot-Faisalabad Campus (2022 - 2026) |
-| AI Engineer | 1+ Year Professional Experience at Zennore |
-| Multi-Domain Project Portfolio | AI, Computer Vision, Full-Stack, and Systems Engineering |
+| **Education** | BSCS Candidate, FAST NUCES Chiniot-Faisalabad (2022 - 2026) |
+| **Industry** | AI Engineer at Zennore (1+ year) |
+| **Portfolio** | AI, Computer Vision, Full-Stack, Systems |
 
 <div align="center">
-
-**GitHub Badges**
-
-<a href="https://github.com/Bixal99?tab=achievements&achievement=yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="90" />
-</a>
-<a href="https://github.com/Bixal99?tab=achievements&achievement=quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="90" />
-</a>
-
-<br/>
-<em>YOLO / Quickdraw</em>
-
+  <br/>
+  <b>GitHub Achievements</b>
+  <br/><br/>
+  <a href="https://github.com/Bixal99?tab=achievements&achievement=yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Bixal99?tab=achievements&achievement=quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw" />
+  </a>
+  <br/>
+  <sub>YOLO / Quickdraw</sub>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
-### Certifications
+## Learning Track
 
-**Coming Soon**
+**Certifications in progress**
 
-![AWS](https://img.shields.io/badge/AWS-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-In%20Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-In%20Progress-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-In%20Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-In%20Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/NPTEL-In%20Progress-0F766E?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco-In%20Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
 
----
+**Coding profiles**
 
-### Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/Bixal99"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://geeksforgeeks.org/user/Bixal99"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+  <a href="https://hackerrank.com/Bixal99"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codechef.com/users/Bixal99"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Bixal99)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Bixal99)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Bixal99)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Bixal99)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
----
+## Now
 
-### GitHub Analytics
+| Mode | Focus |
+|---|---|
+| Learning | Advanced LangGraph multi-agent orchestration; vector DBs & RAG (pgvector, Neon) |
+| Building | AI infrastructure / LLM quality monitoring; Next.js 15 SaaS with Node + PostgreSQL |
+| Exploring | CI/CD for AI systems; CV for accessibility |
+| Open to | AI/ML roles, full-stack collabs, freelance & contracts |
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=3&section=header" width="100%" alt="" />
 
-<a href="https://github.com/Bixal99">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Bixal99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Bixal99">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bixal99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Bixal99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=A78BFA&stroke=8B5CF6" alt="GitHub Streak" />
-
-</div>
-
----
-
-### Contribution Activity
+## Connect
 
 <div align="center">
+  <a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Gmail-042F2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="GitHub" /></a>
+  <a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-**Contribution Heatmap**
+  <br/><br/>
 
-<img src="https://ghchart.rshah.org/8B5CF6/Bixal99" alt="GitHub Contribution Chart" width="100%" />
+  <em>Engineering intelligent systems, one commit at a time.</em>
 
-<br/><br/>
+  <br/><br/>
 
-**Weekly Contribution Bars (last 52 weeks)**
-
-<img src="https://ssr-contributions-svg.vercel.app/_/Bixal99?format=svg&chart=bar&weeks=52&theme=github_dark&gap=1&color=A78BFA" alt="Contribution Bars" width="100%" />
-
-</div>
-
----
-
-### Current Focus
-
-**Learning**
-- Advanced LangGraph multi-agent orchestration
-- Vector databases & RAG optimization (pgvector, Neon)
-
-**Building**
-- AI infrastructure & LLM quality monitoring pipelines
-- Full-stack SaaS products (Next.js 15 / Node.js / PostgreSQL)
-
-**Exploring**
-- CI/CD for AI systems
-- Applied Computer Vision for accessibility
-
-**Open to**
-- AI/ML Engineering opportunities
-- Full-Stack Engineering collaborations
-- Freelance & Contract Projects
-
----
-
-### Connect With Me
-
-<div align="center">
-
-<a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://portfolio-bixal99s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-<br/><br/>
-
-<em>"Engineering intelligent systems, one commit at a time."</em>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" alt="Footer" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,50:134E4A,100:0F766E&height=120&section=footer" width="100%" alt="Footer" />
 </div>
