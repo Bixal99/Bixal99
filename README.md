@@ -47,523 +47,409 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
 </div>
 
-<!-- ABOUT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=320&height=50&lines=About" alt="About" />
-</div>
+<!-- MIDDLE: burnt orange #D96B27, charcoal #161310, warm white #ECE6DF. -->
+<!-- Header and footer are preserved exactly from the supplied template. -->
 
-<br/>
+<a id="about"></a>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=1&pause=999999&color=94A3B8&center=true&vCenter=true&multiline=true&width=760&height=70&lines=I+build+AI+products+that+ship+-+from+computer-vision+loops+and+RAG;assistants+to+full-stack+SaaS.+Engineering-first.+Production-minded." alt="About copy" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=161310&text=USEFUL%20INTELLIGENCE&fontSize=38&fontColor=D96B27&fontAlignY=39&desc=From%20documents%20and%20signals%20to%20software%20people%20can%20use.&descSize=14&descAlignY=68" width="100%" alt="Useful intelligence — from documents and signals to software people can use" />
+</p>
 
-<br/>
+<h2 align="center">AI engineer. Software builder. Problem solver.</h2>
 
-<details>
-<summary><b>Click - What I work on</b></summary>
-<br/>
-<table align="center" width="100%">
+<p align="center">
+  I'm <b>Mohammad Bilal</b>, an AI/ML and Software Engineer based in <b>Doha, Qatar</b>.<br/>
+  A Computer Science graduate from <b>FAST NUCES</b>, building across<br/>
+  generative AI, computer vision, and full-stack product development.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-161310?style=for-the-badge&logo=langchain&logoColor=D96B27" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Computer_Vision-161310?style=for-the-badge&logo=opencv&logoColor=D96B27" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Full--Stack-161310?style=for-the-badge&logo=nextdotjs&logoColor=D96B27" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Applied_ML-161310?style=for-the-badge&logo=scikitlearn&logoColor=D96B27" alt="Applied Machine Learning" />
+</p>
+
+<table width="100%">
   <tr>
-    <td align="center" width="25%" bgcolor="#0F172A">
-      <a href="#featured-work"><img src="https://img.shields.io/badge/01-Generative%20AI-0891B2?style=for-the-badge" alt="01" /></a><br/>
-      <sub>RAG / LLMs / Agents</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>Understand documents</h3>
+      <p>Make PDFs searchable, conversational, and easier to work with.</p>
+      <sub>RAG · OCR · LLM orchestration</sub>
     </td>
-    <td align="center" width="25%" bgcolor="#1E1B4B">
-      <a href="#featured-work"><img src="https://img.shields.io/badge/02-Computer%20Vision-7C3AED?style=for-the-badge" alt="02" /></a><br/>
-      <sub>OpenCV / MediaPipe</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>Read real-world signals</h3>
+      <p>Turn visual input and customer data into useful outputs.</p>
+      <sub>Computer vision · Predictive models</sub>
     </td>
-    <td align="center" width="25%" bgcolor="#0F172A">
-      <a href="#featured-work"><img src="https://img.shields.io/badge/03-Full--Stack-0891B2?style=for-the-badge" alt="03" /></a><br/>
-      <sub>Next.js / FastAPI</sub>
-    </td>
-    <td align="center" width="25%" bgcolor="#1E1B4B">
-      <a href="#featured-work"><img src="https://img.shields.io/badge/04-ML%20Systems-7C3AED?style=for-the-badge" alt="04" /></a><br/>
-      <sub>XGBoost / Analytics</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>Build the complete product</h3>
+      <p>Connect the model, API, database, and interface.</p>
+      <sub>Next.js · FastAPI · PostgreSQL</sub>
     </td>
   </tr>
 </table>
-</details>
 
-<br/>
+<p align="center"><sub>Open to AI/ML roles, full-stack collaboration, freelance work, and contracts.</sub></p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Open_to-AI%2FML%20%7C%20Full--Stack%20%7C%20Freelance-7C3AED?style=for-the-badge&labelColor=0891B2" alt="Open to" />
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- ===================== ANALYTICS ===================== -->
 <a id="live-analytics"></a>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Live+Analytics" alt="Live Analytics" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&duration=1&pause=999999&color=94A3B8&center=true&vCenter=true&width=580&height=30&lines=Stats+%7C+Languages+%7C+Streak+%7C+Heatmap+%7C+Weekly+chart" alt="Analytics note" />
-</div>
 
-<br/>
+## GitHub, in motion
 
-<details open>
-<summary><b>Click - Stats and language charts</b></summary>
-<br/>
-<div align="center">
+<p align="center"><sub>Live statistics · Contribution streaks · Annual activity · Hourly patterns</sub></p>
+
+<!-- Real SVG responses verified on 2026-10-04. Hosted charts use one burnt-orange accent. -->
+<!-- Providers: https://github.com/stats-organization/github-stats-extended -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<p align="center">
   <a href="https://github.com/Bixal99">
-    <img height="185" src="https://github-stats-extended.vercel.app/api?username=Bixal99&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0&ring_color=0891B2&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Bixal99&show_icons=true&hide_border=false&border_color=443126&border_radius=12&bg_color=161310&title_color=D96B27&icon_color=D96B27&text_color=ECE6DF&ring_color=D96B27&include_all_commits=true&disable_animations=true" alt="Mohammad Bilal's GitHub statistics, with burnt-orange icons and rank ring" />
   </a>
-  &nbsp;
   <a href="https://github.com/Bixal99">
-    <img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bixal99&layout=donut&langs_count=6&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&cache_seconds=1800" alt="Top Languages" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Bixal99&hide_border=false&border=443126&border_radius=12&background=161310&ring=D96B27&fire=D96B27&currStreakNum=ECE6DF&sideNums=ECE6DF&currStreakLabel=D96B27&sideLabels=ECE6DF&dates=A99B8E&stroke=443126&timezone=Asia%2FQatar&disable_animations=true" alt="Total contributions, current streak, and longest streak in burnt orange on charcoal" />
   </a>
-</div>
-</details>
+</p>
 
-<br/>
+### A year of contribution activity
 
-<details open>
-<summary><b>Click - Contribution streak</b></summary>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bixal99&theme=transparent&hide_border=true&background=020617&ring=0891B2&fire=7C3AED&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=22D3EE&stroke=7C3AED" alt="Contribution Streak" />
-</div>
-</details>
-
-<br/>
-
-<details open>
-<summary><b>Click - Contribution heatmap</b></summary>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=420&height=30&lines=Yearly+contribution+heatmap+(cyan)" alt="Heatmap title" />
-  <br/><br/>
+<p align="center">
   <a href="https://github.com/Bixal99">
-    <img src="https://ghchart.rshah.org/0891B2/Bixal99" width="100%" alt="Contribution Heatmap" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bixal99&name=Mohammad%20Bilal&theme=github_dark&title_color=D96B27&text_color=ECE6DF&bg_color=161310&border_color=443126&icon_color=D96B27&chart_color=D96B27" alt="Annual GitHub contribution area chart in burnt orange" />
   </a>
-</div>
-</details>
+</p>
 
-<br/>
+### When contributions happen
 
-<details open>
-<summary><b>Click - Weekly contribution bars</b></summary>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&width=460&height=30&lines=Last+52+weeks+bar+chart+(violet)" alt="Bars title" />
-  <br/><br/>
+<p align="center">
   <a href="https://github.com/Bixal99">
-    <img src="https://ssr-contributions-svg.vercel.app/_/Bixal99?format=svg&chart=bar&weeks=52&theme=github_dark&gap=1&color=7C3AED" width="100%" alt="Weekly contribution bars" />
+    <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bixal99&theme=github_dark&utcOffset=3&title_color=D96B27&text_color=ECE6DF&bg_color=161310&border_color=443126&icon_color=D96B27&chart_color=D96B27" alt="Burnt-orange bar chart of commit activity by hour, adjusted to Qatar time UTC+3" />
   </a>
-</div>
-</details>
+</p>
 
-<br/>
+### The classic green calendar
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
+<!-- Preserve the original, flat green calendar. No 3D map or recolored calendar. -->
+<p align="center">
+  <a href="https://github.com/Bixal99">
+    <img width="100%" src="https://ghchart.rshah.org/Bixal99" alt="Yearly GitHub contribution calendar in its original green palette" />
+  </a>
+</p>
 
-<!-- ===================== FEATURED ===================== -->
+<p align="center"><sub>Public GitHub activity; chart providers may cache updates.</sub></p>
+
+---
+
 <a id="featured-work"></a>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=420&height=50&lines=Featured+Work" alt="Featured Work" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&duration=1&pause=999999&color=94A3B8&center=true&vCenter=true&width=520&height=30&lines=Expand+a+card+-+click+pins+to+open+the+repo" alt="Projects note" />
-</div>
 
-<br/>
+## Inside the projects
 
-<details open>
-<summary><b>01 ResuMate - Resume Builder</b></summary>
-<br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/Resume-Builder">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Resume-Builder&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Resume-Builder" />
-  </a>
-  <br/>
-  ATS-ready resume platform with neural parsing and generative AI bullet enhancement.
-  <br/><br/>
-  <a href="https://github.com/Bixal99/Resume-Builder"><img src="https://img.shields.io/badge/Open%20Repo-0891B2?style=for-the-badge&logo=github" alt="repo" /></a>
-  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
-</div>
-</details>
+Three ways I turn AI into practical software. The diagrams show the main flow of each project.
 
-<details>
-<summary><b>02 Churn Prediction</b></summary>
-<br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/Churn-Prediction">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Churn-Prediction&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Churn-Prediction" />
-  </a>
-  <br/>
-  XGBoost + Streamlit churn system with risk gauge and Gemini retention insights.
-  <br/><br/>
-  <a href="https://github.com/Bixal99/Churn-Prediction"><img src="https://img.shields.io/badge/Open%20Repo-7C3AED?style=for-the-badge&logo=github" alt="repo" /></a>
-  <img src="https://img.shields.io/badge/XGBoost-0891B2?style=for-the-badge" alt="ML" />
-</div>
-</details>
+### AI Book Assistant
 
-<details>
-<summary><b>03 Eye Blink Morse Detector</b></summary>
-<br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/EyeBlinkMorseDetector">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=EyeBlinkMorseDetector&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="EyeBlinkMorseDetector" />
-  </a>
-  <br/>
-  Hands-free Morse typing from webcam blinks (OpenCV + MediaPipe + EAR).
-  <br/><br/>
-  <a href="https://github.com/Bixal99/EyeBlinkMorseDetector"><img src="https://img.shields.io/badge/Open%20Repo-0891B2?style=for-the-badge&logo=github" alt="repo" /></a>
-  <img src="https://img.shields.io/badge/OpenCV-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" alt="CV" />
-</div>
-</details>
+**From a PDF to a conversation.** Upload books and explore them through text and voice with a RAG-based reading assistant.
 
-<details>
-<summary><b>04 AI Book Assistant</b></summary>
-<br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/AIBookAssistant">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=AIBookAssistant&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="AIBookAssistant" />
-  </a>
-  <br/>
-  Chat with PDFs using voice + RAG.
-  <br/><br/>
-  <a href="https://ai-book-assistant-blush.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0891B2?style=for-the-badge&logo=vercel" alt="demo" /></a>
-  <a href="https://github.com/Bixal99/AIBookAssistant"><img src="https://img.shields.io/badge/Open%20Repo-7C3AED?style=for-the-badge&logo=github" alt="repo" /></a>
-</div>
-</details>
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"#161310","primaryColor":"#211A15","primaryTextColor":"#ECE6DF","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#161310","fontFamily":"monospace"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    PDF[/PDF books/] --> RETRIEVE[Retrieve relevant passages]
+    RETRIEVE --> CHAT[AI conversation]
+    CHAT --> VOICE([Text and voice])
+    classDef input fill:#211A15,stroke:#D96B27,color:#ECE6DF,stroke-width:2px
+    classDef process fill:#161310,stroke:#D96B27,color:#ECE6DF,stroke-width:1px
+    classDef output fill:#D96B27,stroke:#D96B27,color:#161310,stroke-width:2px
+    class PDF input
+    class RETRIEVE,CHAT process
+    class VOICE output
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
 
-<details>
-<summary><b>05 Pentagram Image Diffusion</b></summary>
-<br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/Pentagram-Image-Diffusion">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Pentagram-Image-Diffusion&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Pentagram-Image-Diffusion" />
-  </a>
-  <br/>
-  Text-to-image diffusion guided by natural language prompts.
-  <br/><br/>
-  <a href="https://github.com/Bixal99/Pentagram-Image-Diffusion"><img src="https://img.shields.io/badge/Open%20Repo-0891B2?style=for-the-badge&logo=github" alt="repo" /></a>
-  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-</div>
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-161310?style=flat-square&logo=nextdotjs&logoColor=D96B27" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-161310?style=flat-square&logo=typescript&logoColor=D96B27" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vapi_AI-161310?style=flat-square" alt="Vapi AI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161310?style=flat-square&logo=tailwindcss&logoColor=D96B27" alt="Tailwind CSS" />
+</p>
 
-<br/>
+[View repository](https://github.com/Bixal99/AIBookAssistant) · [Try the assistant](https://ai-book-assistant-blush.vercel.app/)
 
-<details>
-<summary><b>Click - More projects and live demos</b></summary>
-<br/>
-<table align="center" width="100%">
+### Eye Blink Morse Detector
+
+**From a blink to a message.** An accessibility-focused typing system that turns intentional eye blinks into Morse code and text.
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"#161310","primaryColor":"#211A15","primaryTextColor":"#ECE6DF","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#161310","fontFamily":"monospace"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    CAM[/Webcam frames/] --> FACE[Facial landmarks]
+    FACE --> BLINK{Blink timing}
+    BLINK --> MORSE[Morse decoding]
+    MORSE --> TEXT([Hands-free text])
+    classDef input fill:#211A15,stroke:#D96B27,color:#ECE6DF,stroke-width:2px
+    classDef process fill:#161310,stroke:#D96B27,color:#ECE6DF,stroke-width:1px
+    classDef output fill:#D96B27,stroke:#D96B27,color:#161310,stroke-width:2px
+    class CAM input
+    class FACE,BLINK,MORSE process
+    class TEXT output
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161310?style=flat-square&logo=python&logoColor=D96B27" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-161310?style=flat-square&logo=opencv&logoColor=D96B27" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-161310?style=flat-square&logo=google&logoColor=D96B27" alt="MediaPipe Face Mesh" />
+  <img src="https://img.shields.io/badge/NumPy-161310?style=flat-square&logo=numpy&logoColor=D96B27" alt="NumPy" />
+</p>
+
+[View repository](https://github.com/Bixal99/EyeBlinkMorseDetector) · [Explore the demo](https://eye-blink-morse-detector-4l3hrfxqo-bixal99s-projects.vercel.app/)
+
+### AI Customer Churn Prediction
+
+**From customer data to retention insights.** An end-to-end telecom churn application combining XGBoost predictions, a Streamlit dashboard, and Gemini-generated recommendations.
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"#161310","primaryColor":"#211A15","primaryTextColor":"#ECE6DF","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#161310","fontFamily":"monospace"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    DATA[(Customer features)] --> MODEL[XGBoost prediction]
+    MODEL --> RISK[Risk dashboard]
+    RISK --> INSIGHTS([Retention insights])
+    classDef input fill:#211A15,stroke:#D96B27,color:#ECE6DF,stroke-width:2px
+    classDef process fill:#161310,stroke:#D96B27,color:#ECE6DF,stroke-width:1px
+    classDef output fill:#D96B27,stroke:#D96B27,color:#161310,stroke-width:2px
+    class DATA input
+    class MODEL,RISK process
+    class INSIGHTS output
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-161310?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Streamlit-161310?style=flat-square&logo=streamlit&logoColor=D96B27" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-161310?style=flat-square&logo=plotly&logoColor=D96B27" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Gemini-161310?style=flat-square&logo=googlegemini&logoColor=D96B27" alt="Google Gemini" />
+</p>
+
+[View repository](https://github.com/Bixal99/Churn-Prediction) · [Open the dashboard](https://churn-prediction-k3yjzaxx2mgel668arspbc.streamlit.app/)
+
+### More from the workbench
+
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/Interview-Help"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Interview-Help&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Interview-Help" /></a>
-      <br/><a href="https://interview-help-eight.vercel.app"><img src="https://img.shields.io/badge/Demo-0891B2?style=flat-square&logo=vercel" alt="demo" /></a>
+    <td width="50%" valign="top">
+      <h3>ResuMate</h3>
+      <p>An ATS-ready resume builder with neural parsing and generative AI bullet enhancement.</p>
+      <sub>JavaScript · Generative AI · Document workflows</sub>
+      <p><a href="https://github.com/Bixal99/Resume-Builder">View repository →</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/Portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Portfolio&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Portfolio" /></a>
-      <br/><a href="https://portfolio-bixal99s-projects.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=vercel" alt="demo" /></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/RetroVerse"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=RetroVerse&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="RetroVerse" /></a>
-      <br/><a href="https://retroverse-opal.vercel.app"><img src="https://img.shields.io/badge/Demo-0891B2?style=flat-square&logo=vercel" alt="demo" /></a>
+    <td width="50%" valign="top">
+      <h3>Study Platform / Interview Help</h3>
+      <p>A student learning platform, with infrastructure work focused on scalability and reliability.</p>
+      <sub>Python · JavaScript · C++ · CRUD</sub>
+      <p><a href="https://github.com/Bixal99/Interview-Help">View repository →</a> · <a href="https://interview-help-eight.vercel.app/">Demo</a></p>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/Ghoomora"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Ghoomora&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Ghoomora" /></a>
-      <br/><a href="https://ghoomora.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=vercel" alt="demo" /></a>
+    <td width="50%" valign="top">
+      <h3>Pentagram Image Diffusion</h3>
+      <p>Text-to-image generation guided by natural language prompts.</p>
+      <sub>TypeScript · Image diffusion</sub>
+      <p><a href="https://github.com/Bixal99/Pentagram-Image-Diffusion">View repository →</a></p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/Scrapper"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=Scrapper&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="Scrapper" /></a>
-      <br/><a href="https://helpscript.vercel.app"><img src="https://img.shields.io/badge/Demo-0891B2?style=flat-square&logo=vercel" alt="demo" /></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Bixal99/School-Management-System"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bixal99&repo=School-Management-System&theme=transparent&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="SMS" /></a>
-      <br/><img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=flat-square" alt="tag" />
+    <td width="50%" valign="top">
+      <h3>Falcon</h3>
+      <p>Wholesale business books, stock, customer accounts, and reporting for Doha shops.</p>
+      <sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
+      <p><a href="https://github.com/Bixal99/FALCON">View repository →</a></p>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>Browse the rest of the portfolio</b></summary>
+
 <br/>
-<div align="center">
-  <a href="https://github.com/Bixal99/HMS"><img src="https://img.shields.io/badge/HMS-0891B2?style=for-the-badge&logo=github" alt="HMS" /></a>
-  <a href="https://github.com/Bixal99/ODOO"><img src="https://img.shields.io/badge/ODOO%20Guide-7C3AED?style=for-the-badge&logo=github" alt="ODOO" /></a>
-  <a href="https://github.com/Bixal99/DailyLeet"><img src="https://img.shields.io/badge/DailyLeet-0891B2?style=for-the-badge&logo=leetcode&logoColor=white" alt="DailyLeet" /></a>
-</div>
+
+| Project | Repository | Live demo |
+| :--- | :--- | :--- |
+| Portfolio | [Source](https://github.com/Bixal99/Portfolio) | [Website](https://portfolio-beta-gilt-1emaymvhv5.vercel.app/) |
+| RetroVerse | [Source](https://github.com/Bixal99/RetroVerse) | [Demo](https://retroverse-opal.vercel.app/) |
+| Ghoomora | [Source](https://github.com/Bixal99/Ghoomora) | [Demo](https://ghoomora.vercel.app/) |
+| Scrapper | [Source](https://github.com/Bixal99/Scrapper) | [Demo](https://helpscript.vercel.app/) |
+| School Management System | [Source](https://github.com/Bixal99/School-Management-System) | — |
+| HMS | [Source](https://github.com/Bixal99/HMS) | — |
+| ODOO Guide | [Source](https://github.com/Bixal99/ODOO) | — |
+| DailyLeet | [Source](https://github.com/Bixal99/DailyLeet) | — |
+
 </details>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- STACK -->
 <a id="stack"></a>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=280&height=50&lines=Stack" alt="Stack" />
-</div>
 
-<br/>
+## The toolkit
 
-<details open>
-<summary><b>Click - Languages</b></summary>
-<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,mysql&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-161310?style=for-the-badge&logo=python&logoColor=D96B27" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-161310?style=for-the-badge&logo=typescript&logoColor=D96B27" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-161310?style=for-the-badge&logo=react&logoColor=D96B27" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161310?style=for-the-badge&logo=nextdotjs&logoColor=D96B27" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-161310?style=for-the-badge&logo=fastapi&logoColor=D96B27" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161310?style=for-the-badge&logo=postgresql&logoColor=D96B27" alt="PostgreSQL" />
 </p>
-</details>
 
-<details open>
-<summary><b>Click - Frontend and Backend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask,postgres,mongodb,supabase&theme=dark" alt="Web stack" />
-</p>
-</details>
-
-<details open>
-<summary><b>Click - AI and Tooling</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,docker,git,github,vercel,linux,vscode,figma,postman&theme=dark" alt="AI and tooling" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-0891B2?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI-0891B2?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- EXPERTISE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=360&height=50&lines=Expertise" alt="Expertise" />
-</div>
-
-<br/>
-
-<details open>
-<summary><b>Click - Skill levels</b></summary>
-<br/>
-<table align="center" width="100%">
-  <tr>
-    <th align="left"><img src="https://img.shields.io/badge/Domain-0891B2?style=for-the-badge" alt="Domain" /></th>
-    <th align="center"><img src="https://img.shields.io/badge/Level-7C3AED?style=for-the-badge" alt="Level" /></th>
-    <th align="left"><img src="https://img.shields.io/badge/Toolkit-0891B2?style=for-the-badge" alt="Toolkit" /></th>
-  </tr>
-  <tr>
-    <td bgcolor="#0F172A"><b>Computer Vision</b></td>
-    <td align="center" bgcolor="#0F172A"><img src="https://geps.dev/progress/80" alt="80%" /><br/><img src="https://img.shields.io/badge/4%2F5-0891B2?style=flat-square&labelColor=020617" alt="4/5" /></td>
-    <td bgcolor="#0F172A">OpenCV, MediaPipe Face Mesh, real-time landmarks</td>
-  </tr>
-  <tr>
-    <td bgcolor="#1E1B4B"><b>Machine Learning</b></td>
-    <td align="center" bgcolor="#1E1B4B"><img src="https://geps.dev/progress/80" alt="80%" /><br/><img src="https://img.shields.io/badge/4%2F5-7C3AED?style=flat-square&labelColor=020617" alt="4/5" /></td>
-    <td bgcolor="#1E1B4B">XGBoost, classification / regression pipelines</td>
-  </tr>
-  <tr>
-    <td bgcolor="#0F172A"><b>Generative AI and LLMs</b></td>
-    <td align="center" bgcolor="#0F172A"><img src="https://geps.dev/progress/80" alt="80%" /><br/><img src="https://img.shields.io/badge/4%2F5-0891B2?style=flat-square&labelColor=020617" alt="4/5" /></td>
-    <td bgcolor="#0F172A">Prompting, RAG, LangChain, LangGraph, Gemini</td>
-  </tr>
-  <tr>
-    <td bgcolor="#1E1B4B"><b>OCR and Documents</b></td>
-    <td align="center" bgcolor="#1E1B4B"><img src="https://geps.dev/progress/60" alt="60%" /><br/><img src="https://img.shields.io/badge/3%2F5-7C3AED?style=flat-square&labelColor=020617" alt="3/5" /></td>
-    <td bgcolor="#1E1B4B">PyMuPDF extraction, scraping pipelines</td>
-  </tr>
-  <tr>
-    <td bgcolor="#0F172A"><b>Data Analytics</b></td>
-    <td align="center" bgcolor="#0F172A"><img src="https://geps.dev/progress/80" alt="80%" /><br/><img src="https://img.shields.io/badge/4%2F5-0891B2?style=flat-square&labelColor=020617" alt="4/5" /></td>
-    <td bgcolor="#0F172A">Streamlit, Plotly, Pandas, NumPy</td>
-  </tr>
-</table>
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- EXPERIENCE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=360&height=50&lines=Experience" alt="Experience" />
-</div>
-
-<br/>
-
-<details open>
-<summary><b>Click - AI Engineer role</b></summary>
-<br/>
-<table align="center" width="100%">
-  <tr>
-    <td bgcolor="#0F172A" width="30%" valign="top">
-      <img src="https://img.shields.io/badge/AI%20Engineer-0891B2?style=for-the-badge" alt="Role" /><br/><br/>
-      <img src="https://img.shields.io/badge/Jun%202025%20-%20Present-7C3AED?style=flat-square" alt="Dates" /><br/>
-      <img src="https://img.shields.io/badge/Pakistan-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Loc" />
-    </td>
-    <td bgcolor="#1E1B4B" valign="top">
-      Shipping AI-powered product features end-to-end: prompt engineering, cross-functional delivery, and production workflows from concept to release.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI%20Engineering-0891B2?style=flat-square" alt="t1" />
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square" alt="t2" />
-      <img src="https://img.shields.io/badge/Product%20Development-0891B2?style=flat-square" alt="t3" />
-    </td>
-  </tr>
-</table>
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- RECOGNITION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=400&height=50&lines=Recognition" alt="Recognition" />
-</div>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" bgcolor="#0F172A">
-      <img src="https://img.shields.io/badge/Education-0891B2?style=for-the-badge" alt="Education" /><br/><br/>
-      <b>BSCS Candidate</b><br/>
-      <sub>FAST NUCES / 2022-2026</sub>
-    </td>
-    <td align="center" width="33%" bgcolor="#1E1B4B">
-      <img src="https://img.shields.io/badge/Career-7C3AED?style=for-the-badge" alt="Career" /><br/><br/>
-      <b>AI Engineer</b><br/>
-      <sub>1+ year professional experience</sub>
-    </td>
-    <td align="center" width="33%" bgcolor="#0F172A">
-      <img src="https://img.shields.io/badge/Craft-0891B2?style=for-the-badge" alt="Craft" /><br/><br/>
-      <b>Multi-domain</b><br/>
-      <sub>AI / CV / Full-Stack / Systems</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=999999&color=A78BFA&center=true&vCenter=true&width=380&height=34&lines=GitHub+Achievements" alt="GitHub Achievements" />
-  <br/><br/>
-  <a href="https://github.com/Bixal99?tab=achievements&achievement=yolo">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110" alt="YOLO" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Bixal99?tab=achievements&achievement=quickdraw">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110" alt="Quickdraw" />
-  </a>
-  <br/>
-  <sub>Click badges - YOLO / Quickdraw</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- LEARNING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=360&height=50&lines=Learning" alt="Learning" />
-</div>
-
-<br/>
+| Build layer | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, SQL, C, C++, HTML5, CSS3 |
+| **Interfaces** | Next.js, React, Tailwind CSS, GSAP, Framer Motion, Zustand |
+| **APIs and services** | Node.js, Express, FastAPI, Flask, Pydantic, Better Auth |
+| **AI and orchestration** | LangChain, LangGraph, RAG, Ollama, Groq, OpenAI, Anthropic, Gemini |
+| **Vision and documents** | OpenCV, MediaPipe, OCR, PyMuPDF, Selenium, Beautiful Soup |
+| **Data and ML** | XGBoost, Pandas, NumPy, Streamlit, Plotly |
+| **Storage** | PostgreSQL, MongoDB, Supabase |
+| **Delivery** | Git, Docker, Linux, Vercel, GitLab CI/CD, Postman, Figma, Hugging Face |
 
 <details>
-<summary><b>Click - Certifications in progress</b></summary>
+<summary><b>Applied expertise</b></summary>
+
 <br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-In%20Progress-0891B2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-In%20Progress-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/NPTEL-In%20Progress-0891B2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-In%20Progress-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-</div>
+
+| Domain | Focus |
+| :--- | :--- |
+| Computer Vision | Real-time facial landmarks, eye-blink detection, accessible interfaces |
+| Machine Learning | Classification, regression, feature pipelines, model evaluation |
+| Generative AI | RAG, LLM orchestration, prompting, conversational applications |
+| Document Intelligence | PDF extraction, OCR, scraping pipelines |
+| Data Analytics | Interactive Streamlit dashboards and Plotly visualizations |
+
 </details>
 
-<br/>
+---
 
-<details>
-<summary><b>Click - Coding profiles</b></summary>
-<br/>
-<div align="center">
-  <a href="https://leetcode.com/Bixal99"><img src="https://img.shields.io/badge/LeetCode-0891B2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org/user/Bixal99"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="https://hackerrank.com/Bixal99"><img src="https://img.shields.io/badge/HackerRank-0891B2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com/users/Bixal99"><img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-</details>
+<a id="experience"></a>
 
-<br/>
+## Experience and education
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
-
-<!-- NOW -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=1&pause=999999&color=22D3EE&center=true&vCenter=true&width=240&height=50&lines=Now" alt="Now" />
-</div>
-
-<br/>
-
-<details open>
-<summary><b>Click - Current focus</b></summary>
-<br/>
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="25%" align="center" bgcolor="#0891B2"><b>Learning</b></td>
-    <td bgcolor="#0F172A">LangGraph multi-agent orchestration, vector DBs and RAG (pgvector, Neon)</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" bgcolor="#7C3AED"><b>Building</b></td>
-    <td bgcolor="#1E1B4B">AI infrastructure / LLM quality monitoring, Next.js 15 SaaS</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" bgcolor="#0891B2"><b>Exploring</b></td>
-    <td bgcolor="#0F172A">CI/CD for AI systems, CV for accessibility</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" bgcolor="#7C3AED"><b>Open to</b></td>
-    <td bgcolor="#1E1B4B">AI/ML roles, full-stack collabs, freelance and contracts</td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/EXPERIENCE-161310?style=flat-square&logo=github&logoColor=D96B27" alt="Experience" />
+      <h3>AI Engineer · Zennore</h3>
+      <p>Pakistan · June 2025–Present</p>
+      <p>Deliver AI-powered product features through cross-functional collaboration, prompt engineering, and production workflows.</p>
+      <sub>AI engineering · Product delivery · Startup collaboration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/EDUCATION-161310?style=flat-square&logo=googlescholar&logoColor=D96B27" alt="Education" />
+      <h3>BS Computer Science · FAST NUCES</h3>
+      <p>Pakistan · August 2022–June 2026</p>
+      <p>Computer Science graduate with hands-on projects across AI, computer vision, and full-stack software.</p>
+      <sub>Algorithms · OOP · Networks · Software development</sub>
+    </td>
   </tr>
 </table>
-</details>
 
-<br/>
+---
+
+<a id="achievements"></a>
+
+## Recognition and achievements
+
+<p align="center"><b>Three earned GitHub achievements.</b><br/><sub>Verified against the public profile and achievements tab.</sub></p>
+
+<!-- Earned badges verified at https://github.com/Bixal99?tab=achievements on 2026-10-04. -->
+<!-- Official badge artwork retains GitHub's original colors. -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Bixal99?achievement=pull-shark&tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="140" alt="Earned GitHub achievement: Pull Shark" />
+      </a>
+      <h3>Pull Shark</h3>
+      <sub>GitHub achievement</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Bixal99?achievement=yolo&tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="140" alt="Earned GitHub achievement: YOLO" />
+      </a>
+      <h3>YOLO</h3>
+      <sub>GitHub achievement</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Bixal99?achievement=quickdraw&tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="140" alt="Earned GitHub achievement: Quickdraw" />
+      </a>
+      <h3>Quickdraw</h3>
+      <sub>GitHub achievement</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/Bixal99?tab=achievements">View achievements on GitHub →</a></p>
+
+| Recognition | Details |
+| :--- | :--- |
+| **BS Computer Science** | FAST NUCES, 2022–2026 |
+| **AI Engineer** | 1+ year of professional experience |
+| **Multi-domain portfolio** | AI, computer vision, full-stack, and systems engineering |
+
+---
+
+<a id="learning"></a>
+
+## Learning beyond the code
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Critical_Thinking-161310?style=for-the-badge&logo=googlescholar&logoColor=D96B27" alt="Critical Thinking certificate" />
+      <p><b>Deloitte WorldClass</b><br/><sub>Completed September 8, 2026</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Effective_Leadership-161310?style=for-the-badge&logo=googlescholar&logoColor=D96B27" alt="Effective Leadership certificate" />
+      <p><b>Deloitte WorldClass</b><br/><sub>Completed September 10, 2026</sub></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>Click - FAQ</b></summary>
+<summary><b>Certifications in progress and coding profiles</b></summary>
+
 <br/>
 
-**What are you strongest at?**  
-Generative AI / RAG, computer vision, and full-stack product delivery.
+**In progress:** AWS · Oracle · NPTEL · Cisco
 
-**Where can I see live demos?**  
-Expand Featured Work and More projects - demos are linked as cyan / violet badges.
-
-**How do I reach you?**  
-Jump to [Connect](#connect) or email via the badge above.
+**Coding:** [LeetCode](https://leetcode.com/Bixal99) · [GeeksforGeeks](https://geeksforgeeks.org/user/Bixal99) · [HackerRank](https://hackerrank.com/Bixal99) · [CodeChef](https://codechef.com/users/Bixal99)
 
 </details>
 
-<br/>
+**Languages:** English (fluent) · Urdu (fluent) · Hindi (intermediate) · Arabic (beginner)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=10&color=0:0891B2%2C100:7C3AED&section=header" width="100%" alt="" />
-</div>
+---
+
+<a id="now"></a>
+
+## What I'm working toward
+
+| Direction | Current focus |
+| :--- | :--- |
+| **Learning** | LangGraph orchestration, vector databases, and RAG with pgvector and Neon |
+| **Building** | AI infrastructure, LLM quality monitoring, and full-stack SaaS products |
+| **Exploring** | CI/CD for AI systems and computer vision for accessibility |
+| **Open to** | AI/ML roles, full-stack collaboration, freelance work, and contracts |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=161310&text=LET%27S%20BUILD%20SOMETHING%20USEFUL.&fontSize=24&fontColor=D96B27&fontAlignY=54" width="100%" alt="Let's build something useful" />
+</p>
+
+<p align="center">
+  <a href="#featured-work">Explore projects</a> · <a href="#live-analytics">View analytics</a> · <a href="#connect">Get in touch</a>
+</p>
+
+---
+
 
 <!-- CONNECT + FOOTER -->
 <a id="connect"></a>
