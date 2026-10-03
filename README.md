@@ -7,7 +7,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img width="100%" alt="Mohammad Bilal · AI/ML and Software Engineer · Doha, Qatar" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:D96B27&amp;height=250&amp;section=header&amp;text=Mohammad%20Bilal&amp;fontSize=58&amp;fontColor=F0F6FC&amp;fontAlignY=36&amp;desc=AI%2FML%20%26%20Software%20Engineer%20%C2%B7%20Doha%2C%20Qatar&amp;descSize=20&amp;descColor=F0F6FC&amp;descAlignY=58" />
+  <img width="100%" alt="Mohammad Bilal · AI/ML and Software Engineer · Doha, Qatar" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:D96B27&amp;height=250&amp;section=header&amp;text=Mohammad%20Bilal&amp;fontSize=58&amp;fontColor=F0F6FC&amp;fontAlignY=36&amp;desc=AI%2FML%20and%20Software%20Engineer%20%C2%B7%20Doha%2C%20Qatar&amp;descSize=20&amp;descColor=F0F6FC&amp;descAlignY=58" />
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ flowchart LR
 <p align="center"><b>Languages · frameworks · platforms</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,react,nextjs,nodejs,express,fastapi,flask,tailwind,postgres,mongodb,supabase,docker,linux,git,gitlab,vercel,postman,figma,opencv,pandas,numpy&amp;theme=dark&amp;perline=9" alt="Python, JavaScript, TypeScript, C, C++, HTML, CSS, React, Next.js, Node.js, Express, FastAPI, Flask, Tailwind CSS, PostgreSQL, MongoDB, Supabase, Docker, Linux, Git, GitLab, Vercel, Postman, Figma, OpenCV, Pandas, NumPy" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,react,nextjs,nodejs,express,fastapi,flask,tailwind,postgres,mongodb,supabase,docker,linux,git,gitlab,vercel,postman,figma,opencv&amp;theme=dark&amp;perline=9" alt="Python, JavaScript, TypeScript, C, C++, HTML, CSS, React, Next.js, Node.js, Express, FastAPI, Flask, Tailwind CSS, PostgreSQL, MongoDB, Supabase, Docker, Linux, Git, GitLab, Vercel, Postman, Figma, OpenCV" />
 </p>
 
 <p align="center"><b>AI & vision</b></p>
@@ -218,6 +218,8 @@ flowchart LR
 <p align="center"><b>Interfaces, data & tooling</b></p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-21262D?style=flat-square" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pydantic-21262D?style=flat-square" alt="Pydantic" />
   <img src="https://img.shields.io/badge/Better%20Auth-21262D?style=flat-square" alt="Better Auth" />
   <img src="https://img.shields.io/badge/GSAP-21262D?style=flat-square" alt="GSAP" />
