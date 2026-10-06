@@ -265,18 +265,55 @@ flowchart LR
 
 **Deloitte WorldClass certificates** &nbsp;·&nbsp; Critical Thinking (Sep 8, 2026) &nbsp;·&nbsp; Effective Leadership (Sep 10, 2026)
 
-<details>
-<summary><b>Further learning, coding profiles, and languages</b></summary>
+### Learning & profiles
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>🧠 In progress</b><br/>
+<sub>CERTIFICATIONS · COURSEWORK</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-In%20progress-21262D?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=D96B27" alt="AWS, in progress" />
+<img src="https://img.shields.io/badge/Oracle-In%20progress-21262D?style=for-the-badge&amp;logo=oracle&amp;logoColor=D96B27" alt="Oracle, in progress" />
 <br/>
+<img src="https://img.shields.io/badge/NPTEL-In%20progress-21262D?style=for-the-badge" alt="NPTEL, in progress" />
+<img src="https://img.shields.io/badge/Cisco-In%20progress-21262D?style=for-the-badge&amp;logo=cisco&amp;logoColor=D96B27" alt="Cisco, in progress" />
 
-**In progress:** AWS · Oracle · NPTEL · Cisco
+</td>
+<td width="50%" valign="top">
 
-**Coding profiles:** [LeetCode](https://leetcode.com/Bixal99) · [GeeksforGeeks](https://geeksforgeeks.org/user/Bixal99) · [HackerRank](https://hackerrank.com/Bixal99) · [CodeChef](https://codechef.com/users/Bixal99)
+<b>💻 Coding profiles</b><br/>
+<sub>PROBLEM SOLVING · PRACTICE</sub>
+<br/><br/>
+<a href="https://leetcode.com/Bixal99"><img src="https://img.shields.io/badge/LeetCode-Bixal99-D96B27?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode: Bixal99" /></a>
+<a href="https://geeksforgeeks.org/user/Bixal99"><img src="https://img.shields.io/badge/GeeksforGeeks-Bixal99-21262D?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=2F8D46" alt="GeeksforGeeks: Bixal99" /></a>
+<br/>
+<a href="https://hackerrank.com/Bixal99"><img src="https://img.shields.io/badge/HackerRank-Bixal99-21262D?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=2EC866" alt="HackerRank: Bixal99" /></a>
+<a href="https://codechef.com/users/Bixal99"><img src="https://img.shields.io/badge/CodeChef-Bixal99-21262D?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef: Bixal99" /></a>
 
-**Languages:** English (fluent) · Urdu (fluent) · Hindi (intermediate) · Arabic (beginner)
+</td>
+</tr>
+</table>
 
-</details>
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<b>🌍 Languages</b><br/>
+<sub>SPOKEN</sub>
+<br/><br/>
+
+| Language | Level | |
+| :--- | :--- | :--- |
+| **English** | Fluent | `▰▰▰▰▰▰▰▰▰▰` |
+| **Urdu** | Fluent | `▰▰▰▰▰▰▰▰▰▰` |
+| **Hindi** | Intermediate | `▰▰▰▰▰▰▱▱▱▱` |
+| **Arabic** | Beginner | `▰▰▱▱▱▱▱▱▱▱` |
+
+</td>
+</tr>
+</table>
 
 ### Currently exploring
 
