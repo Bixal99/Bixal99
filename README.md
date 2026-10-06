@@ -161,6 +161,224 @@ flowchart LR
 
 </details>
 
+<details>
+<summary><b>See how every other project works</b></summary>
+
+<br/>
+
+**[ResuMate · from old PDF to ATS resume](https://github.com/Bixal99/Resume-Builder)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    UP[/"Upload resume PDF"/] --> EXT["PyMuPDF text extraction"]
+    EXT --> LLM["Qwen or Llama on Hugging Face"]
+    LLM --> LIVE["Live SSE stream fills the editor"]
+    LIVE --> TPL["Pick one of 8 ATS templates"]
+    TPL --> STAR["STAR bullet optimizer"]
+    STAR --> PDF(["Playwright PDF export"])
+    class UP,EXT,LLM,LIVE,TPL,STAR panel
+    class PDF result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Quarry · from lesson to hire-ready](https://github.com/Bixal99/Interview-Help)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    HOME[/"Home"/] --> COURSE["Pick a course"]
+    COURSE --> CHK["Chapter checkpoint"]
+    CHK --> LESSON["One lesson at a time"]
+    LESSON --> PROJ["Phase project"]
+    PROJ --> NEXT(["Next chapter"])
+    LESSON -.-> STORE[("Progress in localStorage")]
+    PROJ -.-> STORE
+    class HOME,COURSE,CHK,LESSON,PROJ,STORE panel
+    class NEXT result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Pentagram · prompt to image](https://github.com/Bixal99/Pentagram-Image-Diffusion)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    PROMPT[/"Prompt, style and controls"/] --> ENH{"Enhance prompt?"}
+    ENH -->|Yes| OLL["Ollama rewrite"]
+    ENH -->|No| SDXL["Local SDXL with Diffusers"]
+    OLL --> SDXL
+    SDXL --> GAL(["Session gallery"])
+    SDXL --> REDIS[("Redis history")]
+    GAL --> VAR["Seed variations"]
+    VAR --> SDXL
+    class PROMPT,ENH,OLL,SDXL,REDIS,VAR panel
+    class GAL result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Falcon · wholesale shop operations](https://github.com/Bixal99/FALCON)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    CAT[("Book catalog")] --> INV["Inventory tracking"]
+    INV --> SALE["Wholesale sale"]
+    ACC["Customer accounts"] --> SALE
+    SALE --> REP(["Sales and stock reports"])
+    class CAT,INV,SALE,ACC panel
+    class REP result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Portfolio · scroll-driven story](https://github.com/Bixal99/Portfolio)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    HERO["Animated code hero"] --> JOURNEY["Journey timeline"]
+    JOURNEY --> SKILLS["Skills and education"]
+    SKILLS --> PROJECTS["Project grid"]
+    PROJECTS --> CONTACT["Contact form"]
+    CONTACT --> CV(["CV download"])
+    class HERO,JOURNEY,SKILLS,PROJECTS,CONTACT panel
+    class CV result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[RetroVerse · from lobby to dashboards](https://github.com/Bixal99/RetroVerse)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    LOBBY[/"CRT lobby"/] --> PICK["Pick a cabinet"]
+    PICK --> SHELL["GameShell with HUD and pause"]
+    SHELL --> RESULT["Match result"]
+    RESULT --> STORE[("Zustand and localStorage")]
+    STORE --> DASH(["Dashboards and achievements"])
+    SHELL -.-> LOGIC["Pure game logic"]
+    class LOBBY,PICK,SHELL,RESULT,STORE,LOGIC panel
+    class DASH result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Ghoomora · from browsing to e-voucher](https://github.com/Bixal99/Ghoomora)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    BROWSE[/"Browse regions"/] --> PKG["Destinations and packages"]
+    PKG --> CONFIG["Choose tier, days and pickup"]
+    TRIP["Trip builder and AI"] --> PRICE
+    CONFIG --> PRICE["Live pricing and route map"]
+    PRICE --> PAY["Checkout"]
+    PAY --> VOUCHER(["PDF e-voucher"])
+    class BROWSE,PKG,CONFIG,TRIP,PRICE,PAY panel
+    class VOUCHER result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[Scrapper · knowledge base to Word](https://github.com/Bixal99/Scrapper)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    OPEN[/"Open knowledge page"/] --> PAGES["Detect page count"]
+    PAGES --> LIST["Walk paginated action list"]
+    LIST --> ACTION["Open each action"]
+    ACTION --> CLEAN["Strip UI noise, keep code"]
+    CLEAN --> DOCX(["Write platform-tools.docx"])
+    class OPEN,PAGES,LIST,ACTION,CLEAN panel
+    class DOCX result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[MediCore · patient journey](https://github.com/Bixal99/HMS)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    REG[/"Register or walk-in"/] --> BOOK["Booking and check-in"]
+    BOOK --> QUEUE["Doctor queue"]
+    QUEUE --> CONSULT["Consultation and charting"]
+    CONSULT --> ORD{"Orders"}
+    ORD -->|Medicines| PH["Pharmacy"]
+    ORD -->|Tests| LAB["Lab and imaging"]
+    PH --> BILL(["Billing and insurance"])
+    LAB --> BILL
+    class REG,BOOK,QUEUE,CONSULT,ORD,PH,LAB panel
+    class BILL result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[ODOO Guide · zero to engineer](https://github.com/Bixal99/ODOO)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    ZERO[/"Zero knowledge"/] --> ERP["ERP understanding"]
+    ERP --> DEV["Odoo development"]
+    DEV --> FULL["Full-stack Odoo"]
+    FULL --> PROD["Production engineering"]
+    PROD --> ENG(["Odoo Engineer"])
+    class ZERO,ERP,DEV,FULL,PROD panel
+    class ENG result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[School Management System · one platform, four roles](https://github.com/Bixal99/School-Management-System)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    ADMIN["Administrators"] --> PLATFORM[("Central platform")]
+    TEACH["Teachers"] --> PLATFORM
+    STUD["Students"] --> PLATFORM
+    PARENT["Parents"] --> PLATFORM
+    PLATFORM --> OPS(["Academic and admin operations"])
+    class ADMIN,TEACH,STUD,PARENT,PLATFORM panel
+    class OPS result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+**[DailyLeet · daily practice](https://github.com/Bixal99/DailyLeet)**
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#F0F6FC","primaryBorderColor":"#D96B27","lineColor":"#D96B27","edgeLabelBackground":"#0D1117","fontFamily":"Arial"},"flowchart":{"htmlLabels":false,"curve":"basis"}}}%%
+flowchart LR
+    PICK[/"Pick a problem"/] --> SOLVE["Solve it"]
+    SOLVE --> COMMIT(["Commit to the solutions repo"])
+    class PICK,SOLVE panel
+    class COMMIT result
+    classDef panel fill:#161B22,stroke:#D96B27,color:#F0F6FC,stroke-width:1px
+    classDef result fill:#D96B27,stroke:#D96B27,color:#0D1117,stroke-width:2px
+    linkStyle default stroke:#D96B27,stroke-width:2px
+```
+
+</details>
+
 ### More builds
 
 | | |
