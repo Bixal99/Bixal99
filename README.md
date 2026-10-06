@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-beta-gilt-1emaymvhv5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D96B27?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge" alt="Email" /></a>
-  <a href="https://github.com/Bixal99?tab=repositories"><img src="https://img.shields.io/badge/Repositories-21262D?style=for-the-badge" alt="Repositories" /></a>
+  <a href="https://portfolio-beta-gilt-1emaymvhv5.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-D96B27?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-21262D?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-21262D?style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/Bixal99?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Repositories-21262D?style=for-the-badge" alt="Repositories" /></a>
 </p>
 
 <br/>
@@ -195,7 +195,23 @@ flowchart LR
 <p align="center"><b>Languages · frameworks · platforms</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,react,nextjs,nodejs,express,fastapi,flask,tailwind,postgres,mongodb,supabase,docker,linux,git,gitlab,vercel,postman,figma,opencv&amp;theme=dark&amp;perline=9" alt="Python, JavaScript, TypeScript, C, C++, HTML, CSS, React, Next.js, Node.js, Express, FastAPI, Flask, Tailwind CSS, PostgreSQL, MongoDB, Supabase, Docker, Linux, Git, GitLab, Vercel, Postman, Figma, OpenCV" />
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=dark&amp;perline=1" alt="Python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react&amp;theme=dark&amp;perline=3" alt="JavaScript, TypeScript, React" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,fastapi,flask&amp;theme=dark&amp;perline=5" alt="Next.js, Node.js, Express, FastAPI, Flask" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mongodb,supabase,docker,opencv,html&amp;theme=dark&amp;perline=7" alt="Tailwind CSS, PostgreSQL, MongoDB, Supabase, Docker, OpenCV, HTML" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,c,cpp,linux,git,gitlab,vercel,postman,figma&amp;theme=dark&amp;perline=9" alt="CSS, C, C++, Linux, Git, GitLab, Vercel, Postman, Figma" />
 </p>
 
 <p align="center"><b>AI & vision</b></p>
@@ -347,10 +363,10 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="mailto:bilalnadeema302003@gmail.com">Email</a> &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://portfolio-beta-gilt-1emaymvhv5.vercel.app/">Portfolio</a> &nbsp;/&nbsp;
-  <a href="https://github.com/Bixal99">GitHub</a>
-  <br/>
+  <a href="mailto:bilalnadeema302003@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-D96B27?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-bilal-64489827b/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-21262D?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio-beta-gilt-1emaymvhv5.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-21262D?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/Bixal99"><img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-21262D?style=for-the-badge" alt="GitHub" /></a>
+  <br/><br/>
   <sub>Open to AI/ML roles, full-stack collaboration, freelance work, and contracts · <a href="#top">Back to top ↑</a></sub>
 </p>
