@@ -291,22 +291,22 @@ flowchart LR
 <!-- These SVGs are committed to this repo by the "Profile Summary Cards" GitHub Action. -->
 
 <p align="center">
-  <a href="https://github.com/Bixal99"><img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details and contribution chart for Mohammad Bilal" /></a>
+  <a href="https://github.com/Bixal99"><img width="96%" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details and contribution chart for Mohammad Bilal" /></a>
 </p>
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics: stars, commits, PRs, issues" />
+  <img width="48%" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics: stars, commits, PRs, issues" />
   &nbsp;
-  <img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" />
+  <img width="48%" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" />
 </p>
 
 <details>
 <summary><b>Top languages · activity by hour (Qatar time, UTC+3)</b></summary>
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
+  <img width="48%" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
   &nbsp;
-  <img width="48%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commit activity by hour, adjusted to Qatar time" />
+  <img width="48%" src="https://raw.githubusercontent.com/Bixal99/Bixal99/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commit activity by hour, adjusted to Qatar time" />
 </p>
 
 </details>
