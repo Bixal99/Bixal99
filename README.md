@@ -283,39 +283,32 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <b>🧠 In progress</b><br/>
 <sub>CERTIFICATIONS · COURSEWORK</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/AWS-In%20progress-21262D?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=D96B27" alt="AWS, in progress" />
-<img src="https://img.shields.io/badge/Oracle-In%20progress-21262D?style=for-the-badge&amp;logo=oracle&amp;logoColor=D96B27" alt="Oracle, in progress" />
-<br/>
-<img src="https://img.shields.io/badge/NPTEL-In%20progress-21262D?style=for-the-badge" alt="NPTEL, in progress" />
-<img src="https://img.shields.io/badge/Cisco-In%20progress-21262D?style=for-the-badge&amp;logo=cisco&amp;logoColor=D96B27" alt="Cisco, in progress" />
+<img height="28" src="https://img.shields.io/badge/AWS-In%20progress-21262D?style=flat-square&amp;labelColor=D96B27" alt="AWS: In progress" /><br/>
+<img height="28" src="https://img.shields.io/badge/Oracle-In%20progress-21262D?style=flat-square&amp;labelColor=D96B27" alt="Oracle: In progress" /><br/>
+<img height="28" src="https://img.shields.io/badge/NPTEL-In%20progress-21262D?style=flat-square&amp;labelColor=D96B27" alt="NPTEL: In progress" /><br/>
+<img height="28" src="https://img.shields.io/badge/Cisco-In%20progress-21262D?style=flat-square&amp;labelColor=D96B27" alt="Cisco: In progress" />
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <b>💻 Coding profiles</b><br/>
 <sub>PROBLEM SOLVING · PRACTICE</sub>
 <br/><br/>
-<a href="https://leetcode.com/Bixal99"><img src="https://img.shields.io/badge/LeetCode-Bixal99-D96B27?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode: Bixal99" /></a>
-<a href="https://geeksforgeeks.org/user/Bixal99"><img src="https://img.shields.io/badge/GeeksforGeeks-Bixal99-21262D?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=2F8D46" alt="GeeksforGeeks: Bixal99" /></a>
-<br/>
-<a href="https://hackerrank.com/Bixal99"><img src="https://img.shields.io/badge/HackerRank-Bixal99-21262D?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=2EC866" alt="HackerRank: Bixal99" /></a>
-<a href="https://codechef.com/users/Bixal99"><img src="https://img.shields.io/badge/CodeChef-Bixal99-21262D?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef: Bixal99" /></a>
+<a href="https://leetcode.com/Bixal99"><img height="28" src="https://img.shields.io/badge/LeetCode-Bixal99-D96B27?style=flat-square&amp;labelColor=21262D&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode: Bixal99" /></a><br/>
+<a href="https://geeksforgeeks.org/user/Bixal99"><img height="28" src="https://img.shields.io/badge/GeeksforGeeks-Bixal99-D96B27?style=flat-square&amp;labelColor=21262D&amp;logo=geeksforgeeks&amp;logoColor=2F8D46" alt="GeeksforGeeks: Bixal99" /></a><br/>
+<a href="https://hackerrank.com/Bixal99"><img height="28" src="https://img.shields.io/badge/HackerRank-Bixal99-D96B27?style=flat-square&amp;labelColor=21262D&amp;logo=hackerrank&amp;logoColor=2EC866" alt="HackerRank: Bixal99" /></a><br/>
+<a href="https://codechef.com/users/Bixal99"><img height="28" src="https://img.shields.io/badge/CodeChef-Bixal99-D96B27?style=flat-square&amp;labelColor=21262D&amp;logo=codechef&amp;logoColor=white" alt="CodeChef: Bixal99" /></a>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 <b>🌍 Languages</b><br/>
 <sub>SPOKEN</sub>
 <br/><br/>
-<table>
-<tr><th align="left">Language</th><th align="left">Level</th><th align="left">Proficiency</th></tr>
-<tr><td><b>English</b></td><td>Fluent</td><td><code>▰▰▰▰▰▰▰▰▰▰</code></td></tr>
-<tr><td><b>Urdu</b></td><td>Fluent</td><td><code>▰▰▰▰▰▰▰▰▰▰</code></td></tr>
-<tr><td><b>Hindi</b></td><td>Intermediate</td><td><code>▰▰▰▰▰▰▱▱▱▱</code></td></tr>
-<tr><td><b>Arabic</b></td><td>Beginner</td><td><code>▰▰▱▱▱▱▱▱▱▱</code></td></tr>
-</table>
+<img height="28" src="https://img.shields.io/badge/English-Fluent-D96B27?style=flat-square&amp;labelColor=21262D" alt="English: Fluent" /><br/>
+<img height="28" src="https://img.shields.io/badge/Urdu-Fluent-D96B27?style=flat-square&amp;labelColor=21262D" alt="Urdu: Fluent" /><br/>
+<img height="28" src="https://img.shields.io/badge/Hindi-Intermediate-B5561F?style=flat-square&amp;labelColor=21262D" alt="Hindi: Intermediate" /><br/>
+<img height="28" src="https://img.shields.io/badge/Arabic-Beginner-7A3E1A?style=flat-square&amp;labelColor=21262D" alt="Arabic: Beginner" />
 </td>
 </tr>
 </table>
