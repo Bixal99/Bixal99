@@ -40,12 +40,38 @@
   and predictive dashboards that turn data into decisions.
 </p>
 
-```text
-~/bixal99 $ rag.ask("summarise chapter 3")
-~/bixal99 $ blink.decode()            # · – · ·
-~/bixal99 $ churn.predict(customer)
-→ risk 0.82 · retention plan ready
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=D96B27&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=48&amp;repeat=true&amp;lines=~%2Fbixal99%20%24%20rag.ask%28%22summarise%20chapter%203%22%29;~%2Fbixal99%20%24%20blink.decode%28%29%20%20%20%23%20%C2%B7%20%E2%80%93%20%C2%B7%20%C2%B7;~%2Fbixal99%20%24%20churn.predict%28customer%29;%E2%86%92%20risk%200.82%20%C2%B7%20retention%20plan%20ready" alt="Terminal demo: rag.ask, blink.decode, churn.predict" />
+</p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Bixal99/AIBookAssistant"><b>📚 AI Book Assistant</b></a><br/>
+<sub>Talk to your PDFs</sub>
+<br/><br/>
+<code>rag.ask("summarise chapter 3")</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/answer-text%20or%20voice-D96B27?style=for-the-badge&amp;labelColor=21262D" alt="answer: text or voice" />
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Bixal99/EyeBlinkMorseDetector"><b>👁️ Eye Blink Morse</b></a><br/>
+<sub>Hands-free communication</sub>
+<br/><br/>
+<code>blink.decode()</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/blinks-%C2%B7%20%E2%80%93%20%C2%B7%20%C2%B7-D96B27?style=for-the-badge&amp;labelColor=21262D" alt="blinks: · – · ·" />
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/Bixal99/Churn-Prediction"><b>📉 Churn Prediction</b></a><br/>
+<sub>Retention plan included</sub>
+<br/><br/>
+<code>churn.predict(customer)</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/risk-0.82-D96B27?style=for-the-badge&amp;labelColor=21262D" alt="risk: 0.82" />
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,50:D96B27,100:0D1117&amp;height=3" width="100%" alt="" /></p>
 
